@@ -7,4 +7,5 @@ Projeto da plataforma DIO
 - **O arquivo secret está exposto somente para fim de apresentação, em um ambiente de trabalho este arquivo só pode ser exposto caso seja controlado.** :computer:
 - **O arquivo gitlab está com o formato "equivocado" para fim de apresentação do projeto, no caso de um ambiente real, o arquivo precisaria de modificação.** :computer:
 - **Acrescentei scripts para Windows e Linux para serem executados previamente, pois meu gitlab não está aceitando meu cartão e não consigo rodar o job até o momento da postagem.** :smiley:
+- **O frontend e o backend foram anexados ao mesmo local** :computer:
 - **Se conseguiu ler até aqui agradeço a paciência.** :tada:
